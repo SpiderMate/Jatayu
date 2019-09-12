@@ -7,4 +7,10 @@
 
 <h4 align="center">Stealthy Stand Alone PHP Web Shell</h4>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/release-Prv8-blue.svg">
+    <img src="https://img.shields.io/badge/issues-0-red.svg">
+    <img src="https://img.shields.io/badge/php-green.svg">
+
+</p>
 
