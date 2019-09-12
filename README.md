@@ -5,6 +5,6 @@
   <br>
 </h1>
 
-<h4 align="center">Stealthy PHP Web Shell</h4>
+<h4 align="center">Stealthy Stand Alone PHP Web Shell</h4>
 
 
