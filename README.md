@@ -18,6 +18,7 @@
 - Http Header Based Authentication.
 - 100% Undetectable.
 - Exec Function Changer.
+- Nothing Fancy
 
 ### USAGE
 ```
