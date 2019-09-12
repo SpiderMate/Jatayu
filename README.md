@@ -34,4 +34,4 @@ Authtoken : bb3b1a1f-0447-42a6-955a-88681fb88499
 | cmd=id          | Executes command               |
 
 
-NothingFancy(:D)
+-- > As Always Nothing Fancy
