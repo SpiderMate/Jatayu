@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/php-5-green.svg">
 </p>
 
+### FUNCTIONS
 - Http Header Based Authentication.
 - Undetectable.
 - Exec Function Changer.
