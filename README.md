@@ -10,7 +10,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/release-Prv8-blue.svg">
     <img src="https://img.shields.io/badge/issues-0-red.svg">
-    <img src="https://img.shields.io/badge/php-green.svg">
+    <img src="https://img.shields.io/badge/php-5-7-green.svg">
 
 </p>
 
