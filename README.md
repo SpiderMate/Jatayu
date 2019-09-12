@@ -33,6 +33,16 @@ Authtoken : bb3b1a1f-0447-42a6-955a-88681fb88499
 | fn=2            | Calls function system()        |
 | cmd=id          | Executes command               |
 
+### GENERATE AUTHTOKEN
+```
+<?php
+$r = unpack('v*', fread(fopen('/dev/random', 'r'),16));
+$apiKey = sprintf('%04x%04x-%04x-%04x-%04x-%04x%04x%04x',
+    $r[1], $r[2], $r[3], $r[4] & 0x0fff | 0x4000,
+    $r[5] & 0x3fff | 0x8000, $r[6], $r[7], $r[8]);
+echo $apiKey;
+    
+?>
+```
 
 
-As Always Nothing Fancy
