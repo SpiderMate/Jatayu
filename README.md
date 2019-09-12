@@ -14,16 +14,10 @@
     <img src="https://img.shields.io/badge/php-5-green.svg">
 </p>
 
-### FUNCTIONS
+### FEATURES
 - Http Header Based Authentication.
-- Undetectable.
+- 100% Undetectable.
 - Exec Function Changer.
-
-| PARAMETER       | FUNCTION                       |
-| ----------------|:------------------------------:|
-| fn=1            | Calls function shell_exec()    |
-| fn=2            | Calls function system()        |
-| cmd=id          | Executes command               |
 
 ### USAGE
 ```
@@ -31,4 +25,13 @@ GET /test/shell.php?fn=1&&cmd=whoami
 HOST : http://test.com
 Authtoken : bb3b1a1f-0447-42a6-955a-88681fb88499
 ```
+### FUNCTIONS
+
+| PARAMETER       | FUNCTION                       |
+| ----------------|:------------------------------:|
+| fn=1            | Calls function shell_exec()    |
+| fn=2            | Calls function system()        |
+| cmd=id          | Executes command               |
+
+
 
